@@ -15,7 +15,7 @@ To show support for the project, you can do any (or many!) of the following:
 
 ### IMPORTANT
 
-Normally, terminal themes use a set of strict colors, 16 total (8 normal 8 bright), and each give content. In order to maintain the feel of each theme, I have made the following colour changes:
+Normally, terminal themes use a set of strict colors, 16 total (8 normal 8 bright), and each give context. In order to maintain the feel of each theme, I have made the following colour changes:
 
 - Black - **An off-color of the background.**
 - White - **The foreground color.**
